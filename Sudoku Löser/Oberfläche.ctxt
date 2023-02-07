@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=Oberfl\u00E4che
+comment1.params=Gesamt
+comment1.target=Oberfl\u00E4che(java.lang.String[][])
+comment2.params=e
+comment2.target=void\ windowClosing(java.awt.event.WindowEvent)
+comment3.params=e
+comment3.target=void\ actionPerformed(java.awt.event.ActionEvent)
+comment4.params=g
+comment4.target=java.lang.String\ get_Text(int)
+numComments=5
